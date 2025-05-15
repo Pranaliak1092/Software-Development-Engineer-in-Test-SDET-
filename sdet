@@ -1,15 +1,1 @@
-sdet-profile/
-│
-├── README.md
-├── selenium-framework/
-│   └── Sample Selenium Project with TestNG
-├── api-testing-restassured/
-│   └── REST Assured examples and test cases
-├── jmeter-performance/
-│   └── JMeter .jmx files and result samples
-├── burpsuite-security/
-│   └── Burp Suite report samples
-├── test-artifacts/
-│   ├── Test Plan.pdf
-│   ├── Test Cases.xlsx
-│   └── Bug Reports.docx
+
